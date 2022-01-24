@@ -4,14 +4,14 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color:white;
+    color: white;
 }
 
 #backgroundBody{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background: url(background.jpg);
-    background-position: center center;
+    background-position: top left;
     background-size: cover;
     background-color: #464646;
 }
